@@ -1,2 +1,3 @@
-# GUESS-GAME-
-Guess The Word
+# Guess Game Python project
+Guess The Word Game 
+
